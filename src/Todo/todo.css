@@ -1,0 +1,11 @@
+.todos {
+  display: flex;
+}
+.inputTodos {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+li {
+  text-align: initial;
+}
